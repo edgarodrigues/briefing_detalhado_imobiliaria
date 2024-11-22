@@ -1,0 +1,1 @@
+# briefing_detalhado_imobiliaria
