@@ -21,7 +21,7 @@ O sistema é basicamente esse: quando a compra é feita online, você compra o p
 
 
 
-Proposta do site:
+Proposta do site: venda de imóveis.
 
 Recursos utilizados: Git Hub (repositório e cópia do link do site a esse repositório), Word e formulário no Google Forms.
 
